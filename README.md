@@ -62,11 +62,7 @@ price × quantity
 
 * Total revenue is aggregated across all orders
 * Cumulative revenue is computed using window functions
-Sales show steady cumulative growth over time
-Premium pizzas generate higher revenue despite fewer orders
-💰 Revenue Analysis
-Revenue is calculated as:
 
-price × quantity
-Total revenue is aggregated across all orders
-Cumulative revenue is computed using window functions
+## 🚀 Conclusion
+
+This project highlights the ability to work with relational datasets, perform multi-table joins, and derive business insights using SQL. It demonstrates strong analytical thinking and practical data analysis skills applicable to real-world scenarios.
